@@ -61,5 +61,3 @@ VIEWMODELS:
 ESTADO:
 - alimentos.collectAsState() → Actualización automática de UI
 - Parámetros de navegación: alimentoId, foodId en URLs
-
-- 
